@@ -4,10 +4,11 @@
 
 ### Sport Science and Performance Analysis Projects
 
+* * *
 [Collegiate Men's Basketball Team KPI Reporting](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-* * *
+___
 [Collegiate Women's Basketball Team Performance Analysis](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -19,7 +20,7 @@ ___
 [Boys Academy Soccer Team App](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+___
 
 ### Sports Analytics Projects
 
