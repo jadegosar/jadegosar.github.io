@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Here you will find my portfolio which contains projects from my time spent studying data analytics at Notre Dame as well as business analytics in the Master of Science in Business Analytics program at the University of Utah.
   I have also included projects from my time working for a DI Athletics Department as a part of the Applied Health and Performance Science team and my 2+ years of experience working as a data analyst for a nonprofit that is...
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/jade-gosar">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
