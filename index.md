@@ -7,7 +7,7 @@
 [Collegiate Men's Basketball Team KPI Reporting](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-___
+* * *
 [Collegiate Women's Basketball Team Performance Analysis](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
