@@ -31,8 +31,6 @@
 
 ---
 
----
-
 ### Projects in Python
 
 - [Recipe Manager Program](http://example.com/)
@@ -40,8 +38,6 @@
 - [Converting PDFs to Structured Data](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
-
----
 
 ---
 
