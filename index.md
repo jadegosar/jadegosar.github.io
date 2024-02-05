@@ -4,25 +4,31 @@
 
 ### Sport Science and Performance Analysis Projects
 
-[Project 1 Title](/sample_page)
+[Collegiate Men's Basketball Team KPI Reporting](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Collegiate Women's Basketball Team Performance Analysis](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Collegiate Women's Soccer Season Analysis](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+---
+[Boys Academy Soccer Team App](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Sports Analytics Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [Predicting Player Impact in NBA Games](http://example.com/)
+- [Super Team or Super Dream?](http://example.com/)
+- [NBA Shot Efficiency Dashboard in Tableau](http://example.com/)
+- [Miles traveled by Collegiate Sport Team](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
 ---
@@ -31,9 +37,9 @@
 
 ### Projects in Python
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Recipe Manager Program](http://example.com/)
+- [Webpage Scraping](http://example.com/)
+- [Converting PDFs to Structured Data](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
@@ -43,11 +49,11 @@
 
 ### Business Analytics and KPI Reporting
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Maverik Case Competition](http://example.com/)
+- [Determining Default Risk for Loan Company](http://example.com/)
+- [Forbes Top 2000 Companies of 2017 Dashboard](http://example.com/)
+- [Text Analytics Project](http://example.com/)
+- [Machine Learning Project](http://example.com/)
 
 ---
 
