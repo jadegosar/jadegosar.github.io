@@ -42,6 +42,7 @@
 
 <center><img src="images/Tableau_Dashboard_1.png"/></center>
 <center><img src="images/Tableau_Dashboard_2.png"/></center>
+
 ---
 [Miles traveled by Collegiate Sport Team](http://example.com/)
 
