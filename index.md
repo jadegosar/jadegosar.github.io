@@ -5,7 +5,7 @@
 ### Sport Science and Performance Analysis Projects
 
 [Collegiate Men's Basketball Team KPI Reporting](https://github.com/jadegosar/Collegiate_MBB_KPI_Reporting)
-<img src="images/player_plots.png?raw=true"/>
+<center><img src="images/player_plots.png"/></center>
 
 ---
 [Collegiate Women's Basketball Team Performance Analysis](/pdf/Collegiate_MBB_Presentation.pdf)
