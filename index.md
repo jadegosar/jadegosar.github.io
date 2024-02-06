@@ -27,6 +27,9 @@
 ---
 [Boys Academy Soccer Team App](http://example.com/)
 
+<small>Project completed for Development Academy boys' soccer teams to give the Sport Scientist the ability to visualize game level data based on the team selected. This RShiny App
+provides the opportunity for the client to look at team level metrics as well as filter for specific player performance as well as the distributions of KPIs based on game outcome and
+the option to view the underlying dataset based on the applied filters.</small>
 
 <center><img src="images/Academy_App.png"/></center>
 <center><img src="images/Academy_App_2.png"/></center>
