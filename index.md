@@ -9,7 +9,7 @@
 <img src="images/MBB_Dash_2.png?raw=true"/>
 
 ---
-[Collegiate Women's Basketball Team Performance Analysis](/pdf/sample_presentation.pdf)
+[Collegiate Women's Basketball Team Performance Analysis](https://github.com/jadegosar/Collegiate_MBB_KPI_Reporting)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
