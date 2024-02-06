@@ -15,7 +15,7 @@
 
 <small>Project completed for a DI Collegiate Womens Basketball Team with the purpose of...</small>
 
-<center><img src="images/dummy_thumbnail.jpg?raw=true"/></center>
+<center><img src="images/cluster_final.png"/></center>
 
 ---
 [Collegiate Women's Soccer Season Analysis](/sample_page.md)
