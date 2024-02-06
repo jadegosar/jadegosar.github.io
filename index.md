@@ -5,7 +5,8 @@
 ### Sport Science and Performance Analysis Projects
 
 [Collegiate Men's Basketball Team KPI Reporting](/pdf/Collegiate_MBB_Presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/MBB_Dash_1.png?raw=true"/>
+<img src="images/MBB_Dash_2.png?raw=true"/>
 
 ---
 [Collegiate Women's Basketball Team Performance Analysis](/pdf/sample_presentation.pdf)
