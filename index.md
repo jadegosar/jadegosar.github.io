@@ -29,7 +29,7 @@
 
 ## Sports Analytics Projects
 
-- [Predicting Player Impact in NBA Games](http://example.com/)
+- [Predicting Player Impact in NBA Games](https://github.com/jadegosar/Predicting_NBA_Team_Wins)
 - [Super Team or Super Dream?](http://example.com/)
 - [NBA Shot Efficiency Dashboard in Tableau](http://example.com/)
 - [Miles traveled by Collegiate Sport Team](http://example.com/)
