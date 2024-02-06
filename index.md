@@ -4,7 +4,7 @@
 
 ## Sport Science and Performance Analysis Projects
 
-[###Collegiate Men's Basketball Team KPI Reporting](https://github.com/jadegosar/Collegiate_MBB_KPI_Reporting)
+[Collegiate Men's Basketball Team KPI Reporting](https://github.com/jadegosar/Collegiate_MBB_KPI_Reporting)
 
 <small>Project completed for a DI Collegiate Mens Basketball Team with the purpose of...</small>
 
