@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   for a nonprofit. Other projects included are from my time spent studying analytics at Notre Dame during my undergrad and business analytics in my Master's of Science Program.
   <br><br>
   <br><br>
-  <a href="https://www.linkedin.com/in/jade-gosar">View My LinkedIn Profile</a> 
+  <p><a href="https://www.linkedin.com/in/jade-gosar">View My LinkedIn Profile</a></p>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
