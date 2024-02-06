@@ -15,7 +15,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Collegiate Women's Soccer Season Analysis](/sample_page)
+[Collegiate Women's Soccer Season Analysis](/sample_page.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
