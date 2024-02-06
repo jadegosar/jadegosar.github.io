@@ -63,11 +63,19 @@
 
 ## Business Analytics and KPI Reporting
 
-- [Maverik Case Competition](http://example.com/)
-- [Determining Default Risk for Loan Company](http://example.com/)
-- [Forbes Top 2000 Companies of 2017 Dashboard](http://example.com/)
-- [Text Analytics Project](http://example.com/)
-- [Machine Learning Project](http://example.com/)
+[Maverik Case Competition](https://github.com/jadegosar/Maverik-Case-Competition)
+
+---
+[Determining Default Risk for Loan Company](https://github.com/jadegosar/Home_Credit_Default_Risk)
+
+---
+[Forbes Top 2000 Companies of 2017 Dashboard](http://example.com/)
+
+---
+[Text Analytics Project](http://example.com/)
+
+---
+[Machine Learning Project](http://example.com/)
 
 ---
 
