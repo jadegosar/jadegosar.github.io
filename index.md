@@ -19,7 +19,10 @@
 
 ---
 [Collegiate Women's Soccer Season Analysis](/sample_page.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<small>Project completed for a DI Collegiate Mens Basketball Team with the purpose of...</small>
+
+<center><img src="images/cluster_final.png"/></center>
 
 ---
 [Boys Academy Soccer Team App](http://example.com/)
@@ -29,11 +32,21 @@
 
 ## Sports Analytics Projects
 
-- [Predicting Player Impact in NBA Games](https://github.com/jadegosar/Predicting_NBA_Team_Wins)
-- [Super Team or Super Dream?](http://example.com/)
-- [NBA Shot Efficiency Dashboard in Tableau](http://example.com/)
-- [Miles traveled by Collegiate Sport Team](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Predicting Player Impact in NBA Games](https://github.com/jadegosar/Predicting_NBA_Team_Wins)
+
+---
+[Super Team or Super Dream?](http://example.com/)
+
+---
+[NBA Shot Efficiency Dashboard in Tableau](http://example.com/)
+
+<center><img src="images/Tableau_Dashboard_1.png"/></center>
+<center><img src="images/Tableau_Dashboard_2.png"/></center>
+---
+[Miles traveled by Collegiate Sport Team](http://example.com/)
+
+---
+[Project 5 Title](http://example.com/)
 
 ---
 
