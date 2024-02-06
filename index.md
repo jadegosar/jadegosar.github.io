@@ -6,7 +6,7 @@
 
 [Collegiate Men's Basketball Team KPI Reporting](https://github.com/jadegosar/Collegiate_MBB_KPI_Reporting)
 
-<small>Project completed for a DI Collegiate Mens Basketball Team with the purpose of...</small>
+<span style="font-size: medium;">Project completed for a DI Collegiate Mens Basketball Team with the purpose of...</span>
 
 <center><img src="images/player_plots.png"/></center>
 
