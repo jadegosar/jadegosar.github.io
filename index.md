@@ -1,10 +1,13 @@
-## Data Science and Analytics Portfolio
+# Data Science and Analytics Portfolio
 
 ---
 
-### Sport Science and Performance Analysis Projects
+## Sport Science and Performance Analysis Projects
 
 [Collegiate Men's Basketball Team KPI Reporting](https://github.com/jadegosar/Collegiate_MBB_KPI_Reporting)
+
+Project completed for a DI Collegiate Mens Basketball Team with the purpose of...
+
 <center><img src="images/player_plots.png"/></center>
 
 ---
@@ -21,7 +24,7 @@
 
 ---
 
-### Sports Analytics Projects
+## Sports Analytics Projects
 
 - [Predicting Player Impact in NBA Games](http://example.com/)
 - [Super Team or Super Dream?](http://example.com/)
@@ -31,7 +34,7 @@
 
 ---
 
-### Projects in Python
+## Projects in Python
 
 - [Recipe Manager Program](http://example.com/)
 - [Webpage Scraping](http://example.com/)
@@ -41,7 +44,7 @@
 
 ---
 
-### Business Analytics and KPI Reporting
+## Business Analytics and KPI Reporting
 
 - [Maverik Case Competition](http://example.com/)
 - [Determining Default Risk for Loan Company](http://example.com/)
