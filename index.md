@@ -4,7 +4,7 @@
 
 ### Sport Science and Performance Analysis Projects
 
-[Collegiate Men's Basketball Team KPI Reporting](/sample_page)
+[Collegiate Men's Basketball Team KPI Reporting](/pdf/Collegiate_MBB_Presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Collegiate Women's Soccer Season Analysis](http://example.com/)
+[Collegiate Women's Soccer Season Analysis](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
