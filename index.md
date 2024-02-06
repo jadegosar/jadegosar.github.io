@@ -11,7 +11,7 @@
 <center><img src="images/player_plots.png"/></center>
 
 ---
-[Collegiate Women's Basketball Team Performance Analysis](/pdf/Collegiate_MBB_Presentation.pdf)
+[Collegiate Women's Basketball Team Performance Analysis](/pdf/WBB_Presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
