@@ -26,7 +26,10 @@
 
 ---
 [Boys Academy Soccer Team App](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+<center><img src="images/Academy_App.png"/></center>
+<center><img src="images/Academy_App_2.png"/></center>
 
 ---
 
