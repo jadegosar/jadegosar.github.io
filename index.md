@@ -12,7 +12,10 @@
 
 ---
 [Collegiate Women's Basketball Team Performance Analysis](/pdf/WBB_Presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<small>Project completed for a DI Collegiate Womens Basketball Team with the purpose of...</small>
+
+<center><img src="images/dummy_thumbnail.jpg?raw=true"/></center>
 
 ---
 [Collegiate Women's Soccer Season Analysis](/sample_page.md)
