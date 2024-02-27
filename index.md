@@ -26,14 +26,14 @@ risk of injury due to fatigue.</small>
 <center><img src="images/cluster_final.png"/></center>
 
 ---
-[Boys Academy Soccer Team App](http://example.com/)
+[Boys Academy Soccer Team App](https://github.com/jadegosar/Game_Data_App)
 
 <small>Project completed for Development Academy boys' soccer teams to give the Sport Scientist the ability to visualize game level data based on the team selected. This RShiny App
 provides the opportunity for the client to look at team level metrics as well as filter for specific player performance. Additionally it provides the distributions of KPIs based on game outcome and
 the option to view the underlying dataset based on the applied filters.</small>
 
-<center><img src="images/Academy_App.png"/></center>
-<center><img src="images/Academy_App_2.png"/></center>
+<center><img src="images/Soccer_App_1.png"/></center>
+<center><img src="images/Soccer_App_7.png"/></center>
 
 ---
 
