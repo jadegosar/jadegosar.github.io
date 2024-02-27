@@ -83,7 +83,7 @@ the option to view the underlying dataset based on the applied filters.</small>
 [Forbes Top 2000 Companies of 2017 Dashboard](http://example.com/)
 
 ---
-[Text Analytics Project](http://example.com/)
+[Text Analytics Project](https://github.com/jadegosar/World_Cup_Tweets)
 
 ---
 [Machine Learning Project](http://example.com/)
