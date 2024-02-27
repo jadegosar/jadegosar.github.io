@@ -39,13 +39,13 @@ the option to view the underlying dataset based on the applied filters.</small>
 
 ## Sports Analytics Projects
 
-[Predicting Player Impact in NBA Games](https://github.com/jadegosar/Predicting_NBA_Team_Wins)
+[Predicting Player Impact in NBA Games](https://github.com/jadegosar/NBA_Player_Impact)
 
 ---
-[Super Team or Super Dream?](http://example.com/)
+[Super Team or Super Dream?](https://github.com/jadegosar/Predicting_NBA_Team_Wins)
 
 ---
-[NBA Shot Efficiency Dashboard in Tableau](http://example.com/)
+[NBA Shot Efficiency Dashboard in Tableau](https://github.com/jadegosar/Tableau_Projects)
 
 <center><img src="images/Tableau_Dashboard_1.png"/></center>
 <center><img src="images/Tableau_Dashboard_2.png"/></center>
