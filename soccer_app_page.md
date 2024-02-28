@@ -14,34 +14,27 @@
 ### 1. Data Description
 
 The dataset contains columns containing the following information:
-* player_id 
-team_name - will be 15s and 17s
-activity_name - date and opponent
-match_id
-session_date - match date
-cat_min_played - minutes played from GPS
-distance - distance covered in meters
-decels - amount of decelerations
-accels - amount of accelerations
-hsr - high speed running yards (distance above 18 km/h)
-running_distance_2ms - distance covered over 2 m/s
-def_act - sum of tackles, pressure, foul
-touches - amount of ball receptions
-obv - sum on ball value (StatsBomb metric)
-actions_sum - def_act + touches
-rsl_score - goals scored by RSL (some games included penalty shootouts so those have inflated scores)
-opp_score - goals scored by opponent (some games included penalty shootouts so those have inflated scores)
-
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
+* player_id
+* team_name
+* activity_name
+* match_id
+* session_date - match date
+* cat_min_played - minutes played from GPS
+* distance - distance covered in meters
+* decels - amount of decelerations
+* accels - amount of accelerations
+* hsr - high speed running yards (distance above 18 km/h)
+* running_distance_2ms - distance covered over 2 m/s
+* def_act - sum of tackles, pressure, foul
+* touches - amount of ball receptions
+* obv - sum on ball value
+* actions_sum - def_act + touches
+* team_score - goals scored by home team
+* opp_score - goals scored by opponent
 
 ### 2. Assess assumptions on which statistical inference will be based
 
-```javascript
+```r
 if (isAwesome){
   return true
 }
