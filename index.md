@@ -93,5 +93,5 @@ the option to view the underlying dataset based on the applied filters.</small>
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px"
 <!-- Remove above link if you don't want to attibute -->
