@@ -42,26 +42,26 @@ The team match information tab contains a scatterplot that shows the relationshi
 *High Level Player Overview:*
 High Level Player Overview plots the selected metric for each player on the team over the season. This visualization can be filtered for up to five players to provide a side by side comparison of trends in these KPI's at the individual level and the date range of the line graphs can be filtered to the user's preference.
 
-*Win/Loss Distributions:*
+<center><img src="images/Soccer_App_4.png"/></center>
 
+<center><img src="images/Soccer_App_5.png"/></center>
+
+*Win/Loss Distributions:*
+This tab contains a boxplot that shows the range of a metric based on whether the game outcome was a win, loss, or tie. The plot can be filtered for a desired date range and provides a summary table of basic statistics on the distribution of the metric depending on the game outcome. Additionally, this output can be filtered to a specific player or group of players.
+
+<center><img src="images/Soccer_App_6.png"/></center>
 
 *Metrics by Game Outcome:*
+Metrics by Game Outcome visualizes the selected metric based on the game outcome. This gives the user the ability to see what the team or players performance was in an individual metric and how that might relate to the eventual outcome of the game.
 
+<center><img src="images/Soccer_App_7.png"/></center>
+
+<center><img src="images/Soccer_App_8.png"/></center>
 
 *Data Viewer:*
-
-
-```r
-if (isAwesome){
-  return true
-}
-```
+The final tab in the application displays the data based on the filters that the user has specified for the team name, player ids, and date range. This allows the user to see the underlying dataset if they want to examine any observations at the most granular level.
 
 ### 3. Application User Interface
 
-<center><img src="images/Soccer_App_5.png"/></center>
-<center><img src="images/Soccer_App_6.png"/></center>
-<center><img src="images/Soccer_App_7.png"/></center>
-<center><img src="images/Soccer_App_8.png"/></center>
 
 For more details on the code used to create the application see my [GitHub Repository](https://github.com/jadegosar/Game_Data_App).
