@@ -25,6 +25,20 @@ The dataset contains columns containing the following information:
 
 ### 2. Application Functionality
 
+This app gives the user the ability to select the team name to visualize the data for, filter for up to five specific players, and select a date range to be included in the output. The app has 6 tabs: Team Overview, Team Match Information, High Level Player Overview, Win/Loss Distributions, Metrics by Game Outcome, and Data Viewer. Each tab's functionality is outlined below.
+
+*Team Overview* This tab
+
+*Team Match Information*
+
+*High Level Player Overview*
+
+*Win/Loss Distributions*
+
+*Metrics by Game Outcome*
+
+*Data Viewer*
+
 ```r
 if (isAwesome){
   return true
@@ -41,9 +55,5 @@ if (isAwesome){
 <center><img src="images/Soccer_App_6.png"/></center>
 <center><img src="images/Soccer_App_7.png"/></center>
 <center><img src="images/Soccer_App_8.png"/></center>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 For more details on the code used to create the application see my [GitHub Repository](https://github.com/jadegosar/Game_Data_App).
