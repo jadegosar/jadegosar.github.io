@@ -31,9 +31,7 @@ risk of injury due to fatigue.</small>
 ---
 [Collegiate Women's Soccer Season Analysis](/pdf/sample_presentation.pdf)
 
-<small>Project completed for a DI Collegiate Mens Basketball Team with the purpose of...</small>
-
-<center><img src="images/"/></center>
+<small>Project completed for a Collegiate Women's Soccer Team with the purpose of...</small>
 
 ---
 
