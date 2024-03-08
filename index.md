@@ -22,14 +22,14 @@ risk of injury due to fatigue.</small>
 <center><img src="images/player_plots.png"/></center>
 
 ---
-[Collegiate Women's Basketball Team Performance Analysis](/pdf/)
+[Collegiate Women's Basketball Team Performance Analysis](https://github.com/jadegosar/WBB_Analysis)
 
 <small>Project completed for a DI Collegiate Womens Basketball Team with the purpose of...</small>
 
 <center><img src="images/cluster_final.png"/></center>
 
 ---
-[Collegiate Women's Soccer Season Analysis](/sample_page.md)
+[Collegiate Women's Soccer Season Analysis](/pdf/sample_presentation.pdf)
 
 <small>Project completed for a DI Collegiate Mens Basketball Team with the purpose of...</small>
 
