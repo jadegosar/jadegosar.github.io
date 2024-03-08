@@ -4,6 +4,16 @@
 
 ## Sport Science and Performance Analysis Projects
 
+[Boys Academy Soccer Team App](/soccer_app_page.md)
+
+<small>Project completed for Development Academy boys' soccer teams to give the Sport Scientist the ability to visualize game level data based on the team selected. This RShiny App
+provides the opportunity for the client to look at team level metrics as well as filter for specific player performance. Additionally it provides the distributions of KPIs based on game outcome and
+the option to view the underlying dataset based on the applied filters.</small>
+
+<center><img src="images/Soccer_App_1.png"/></center>
+<center><img src="images/Soccer_App_7.png"/></center>
+
+---
 [Collegiate Men's Basketball Team KPI Reporting](https://github.com/jadegosar/Collegiate_MBB_KPI_Reporting)
 
 <small>Project completed for a DI Collegiate Mens Basketball Team with the purpose of identifying and flagging players who may be physically unprepared for the game and therefore at an increased
@@ -24,16 +34,6 @@ risk of injury due to fatigue.</small>
 <small>Project completed for a DI Collegiate Mens Basketball Team with the purpose of...</small>
 
 <center><img src="images/"/></center>
-
----
-[Boys Academy Soccer Team App](/soccer_app_page.md)
-
-<small>Project completed for Development Academy boys' soccer teams to give the Sport Scientist the ability to visualize game level data based on the team selected. This RShiny App
-provides the opportunity for the client to look at team level metrics as well as filter for specific player performance. Additionally it provides the distributions of KPIs based on game outcome and
-the option to view the underlying dataset based on the applied filters.</small>
-
-<center><img src="images/Soccer_App_1.png"/></center>
-<center><img src="images/Soccer_App_7.png"/></center>
 
 ---
 
