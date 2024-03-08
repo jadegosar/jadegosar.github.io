@@ -23,7 +23,7 @@ risk of injury due to fatigue.</small>
 
 <small>Project completed for a DI Collegiate Mens Basketball Team with the purpose of...</small>
 
-<center><img src="images/cluster_final.png"/></center>
+<center><img src="images/"/></center>
 
 ---
 [Boys Academy Soccer Team App](/soccer_app_page.md)
