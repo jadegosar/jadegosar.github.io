@@ -12,7 +12,7 @@ risk of injury due to fatigue.</small>
 <center><img src="images/player_plots.png"/></center>
 
 ---
-[Collegiate Women's Basketball Team Performance Analysis](/pdf/WBB_Presentation.pdf)
+[Collegiate Women's Basketball Team Performance Analysis](/pdf/)
 
 <small>Project completed for a DI Collegiate Womens Basketball Team with the purpose of...</small>
 
