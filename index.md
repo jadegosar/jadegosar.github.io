@@ -55,7 +55,7 @@ risk of injury due to fatigue.</small>
 <center><img src="images/Tableau_Dashboard_2.png"/></center>
 
 ---
-[Miles traveled by Collegiate Sport Team](http://example.com/)
+[Project 4 Title](http://example.com/)
 
 ---
 [Project 5 Title](http://example.com/)
