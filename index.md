@@ -49,7 +49,7 @@ risk of injury due to fatigue.</small>
 ---
 [NBA Shot Efficiency Dashboard in Tableau](https://github.com/jadegosar/Tableau_Projects)
 
-<small>Dashboard to visualize NBA player shot profiles and shooting efficiency based on away and home games played in a season.</small>
+<small>Tableau dashboard to visualize NBA player shot profiles and shooting efficiency based on away and home games played in a season.</small>
 
 <center><img src="images/Tableau_Dashboard_1.png"/></center>
 <center><img src="images/Tableau_Dashboard_2.png"/></center>
