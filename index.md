@@ -88,7 +88,7 @@ the option to view the underlying dataset based on the applied filters.</small>
 ---
 [Text Analytics Project](https://github.com/jadegosar/World_Cup_Tweets)
 
-<small>Text Analytics project to contextualize important topics throughout the Men's World Cup in 2022 by analyzing tweets related to the World Cup.</small>
+<small>Text Analytics project to contextualize important topics and sentiment throughout the Men's World Cup in 2022 by analyzing tweets related to the World Cup.</small>
 
 ---
 [Machine Learning Project](http://example.com/)
