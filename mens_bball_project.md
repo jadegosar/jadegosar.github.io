@@ -30,4 +30,4 @@ The data sources used for this project were:
 ### 3. Final Output
 
 
-For more details on the code used to create the application see my [GitHub Repository](https://github.com/jadegosar/Game_Data_App).
+For more details on the code related to this project see my [Men's Basketball GitHub Repository](https://github.com/jadegosar/Collegiate_MBB_KPI_Reporting).
