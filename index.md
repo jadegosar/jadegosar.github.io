@@ -14,7 +14,7 @@ the option to view the underlying dataset based on the applied filters.</small>
 <center><img src="images/Soccer_App_7.png"/></center>
 
 ---
-[Collegiate Men's Basketball Team KPI Reporting](https://github.com/jadegosar/Collegiate_MBB_KPI_Reporting)
+[Collegiate Men's Basketball Team KPI Reporting](/mens_bball_project.md)
 
 <small>Project completed for a DI Collegiate Mens Basketball Team with the purpose of identifying and flagging players who may be physically unprepared for the game and therefore at an increased
 risk of injury due to fatigue.</small>
