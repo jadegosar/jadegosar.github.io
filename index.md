@@ -16,8 +16,7 @@ the option to view the underlying dataset based on the applied filters.</small>
 ---
 [Collegiate Men's Basketball Team KPI Reporting](/mens_bball_project.md)
 
-<small>Project completed for a DI Collegiate Mens Basketball Team with the purpose of identifying and flagging players who may be physically unprepared for the game and therefore at an increased
-risk of injury due to fatigue.</small>
+<small>Project completed for a DI Collegiate Mens Basketball Team with the purpose of identifying and flagging players who may be physically unprepared for the game and therefore at an increased risk of injury due to fatigue.</small>
 
 <center><img src="images/player_plots.png"/></center>
 
@@ -88,6 +87,8 @@ risk of injury due to fatigue.</small>
 
 ---
 [Text Analytics Project](https://github.com/jadegosar/World_Cup_Tweets)
+
+<small>Text Analytics project to contextualize important topics throughout the Men's World Cup in 2022.</small>
 
 ---
 [Machine Learning Project](http://example.com/)
