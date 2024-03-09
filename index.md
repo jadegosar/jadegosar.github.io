@@ -39,8 +39,12 @@ risk of injury due to fatigue.</small>
 
 [Predicting Player Impact in NBA Games](https://github.com/jadegosar/NBA_Player_Impact)
 
+<small>Machine Learning project to predict the true impact of an NBA player on eventual game outcome.</small>
+
 ---
 [Super Team or Super Dream?](https://github.com/jadegosar/Predicting_NBA_Team_Wins)
+
+<small>Machine Learning project to predict an NBA's team wins in the upcoming season based on updated rosters from off-season player movement.</small>
 
 ---
 [NBA Shot Efficiency Dashboard in Tableau](https://github.com/jadegosar/Tableau_Projects)
