@@ -6,9 +6,15 @@
 
 The data sources used for this project were:
 
-*Force Plate Data*
+*Force Plate Data:*
 
-*Strive Data*
+*Strive Data:*
+
+*Schedule Information:*
+
+*Minutes Played:*
+
+*In-game metrics and player statistics:*
 
 ### 2. Project Process
 
