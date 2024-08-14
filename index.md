@@ -10,7 +10,7 @@
 provides the opportunity for the client to look at team level metrics as well as filter for specific player performance. Additionally it provides the distributions of KPIs based on game outcome and
 the option to view the underlying dataset based on the applied filters.</small>
 
-<center><img src="images/Soccer_App_1.png" height="1000"/></center>
+<center><img src="images/Soccer_App_1.png" width="1200" height="1000"/></center>
 <center><img src="images/Soccer_App_7.png"/></center>
 
 ---
