@@ -32,31 +32,31 @@ The team overview tab plots team level data over the season, allowing the user t
 
 <center><img src="images/Soccer_App_1.png" width="800" height="250"/></center>
 
-<center><img src="images/Soccer_App_2.png"/></center>
+<center><img src="images/Soccer_App_2.png" width="800" height="250"/></center>
 
 *Team Match Information:*
 The team match information tab contains a scatterplot that shows the relationship between two selected metrics for an individual game. The user can select a team and any match id that is associated with that team along with what metrics they would like to display on the x and y axis. This tab also shows a summary table for the match selected that displays averages across the team for all metrics in the dataset.
 
-<center><img src="images/Soccer_App_3.png"/></center>
+<center><img src="images/Soccer_App_3.png" width="800" height="250"/></center>
 
 *High Level Player Overview:*
 High Level Player Overview plots the selected metric for each player on the team over the season. This visualization can be filtered for up to five players to provide a side by side comparison of trends in these KPI's at the individual level and the date range of the line graphs can be filtered to the user's preference.
 
-<center><img src="images/Soccer_App_4.png"/></center>
+<center><img src="images/Soccer_App_4.png" width="800" height="250"/></center>
 
-<center><img src="images/Soccer_App_5.png"/></center>
+<center><img src="images/Soccer_App_5.png" width="800" height="250"/></center>
 
 *Win/Loss Distributions:*
 This tab contains a boxplot that shows the range of a metric based on whether the game outcome was a win, loss, or tie. The plot can be filtered for a desired date range and provides a summary table of basic statistics on the distribution of the metric depending on the game outcome. Additionally, this output can be filtered to a specific player or group of players.
 
-<center><img src="images/Soccer_App_6.png"/></center>
+<center><img src="images/Soccer_App_6.png" width="800" height="250"/></center>
 
 *Metrics by Game Outcome:*
 Metrics by Game Outcome visualizes the selected metric based on the game outcome. This gives the user the ability to see what the team or players performance was in an individual metric and how that might relate to the eventual outcome of the game.
 
-<center><img src="images/Soccer_App_7.png"/></center>
+<center><img src="images/Soccer_App_7.png" width="800" height="250"/></center>
 
-<center><img src="images/Soccer_App_8.png"/></center>
+<center><img src="images/Soccer_App_8.png" width="800" height="250"/></center>
 
 *Data Viewer:*
 The final tab in the application displays the data based on the filters that the user has specified for the team name, player ids, and date range. This allows the user to see the underlying dataset if they want to examine any observations at the most granular level.
