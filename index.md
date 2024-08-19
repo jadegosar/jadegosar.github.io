@@ -41,9 +41,9 @@ the option to view the underlying dataset based on the applied filters.</small>
 <small>Machine Learning project to predict the true impact of an NBA player on eventual game outcome using point differential. This was a group project completed as part of the Human Performance Analytics class that I had the opportunity to take in my undergrad education at the University of Notre Dame.</small>
 
 ---
-[Super Team or Super Dream?](https://github.com/jadegosar/Predicting_NBA_Team_Wins)
+[Super Team or Super Dream?](/pdf/NBA_ML_Analysis.pptx)
 
-<small>Machine Learning project to predict an NBA's team wins in the upcoming season based on updated rosters from off-season player movement.</small>
+<small>Machine Learning project to predict an NBA's team wins in the upcoming season based on updated rosters from off-season player movement. The GitHub Repo with more detailed project information can be [found here](https://github.com/jadegosar/Predicting_NBA_Team_Wins)</small>
 
 ---
 [NBA Shot Efficiency Dashboard in Tableau](https://github.com/jadegosar/Tableau_Projects)
