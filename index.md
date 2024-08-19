@@ -38,7 +38,7 @@ the option to view the underlying dataset based on the applied filters.</small>
 
 [Predicting Player Impact in NBA Games](https://github.com/jadegosar/NBA_Player_Impact)
 
-<small>Machine Learning project to predict the true impact of an NBA player on eventual game outcome.</small>
+<small>Machine Learning project to predict the true impact of an NBA player on eventual game outcome using point differential. This was a group project completed as part of the Human Performance Analytics class that I had the opportunity to take in my undergrad education at the University of Notre Dame.</small>
 
 ---
 [Super Team or Super Dream?](https://github.com/jadegosar/Predicting_NBA_Team_Wins)
