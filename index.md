@@ -107,6 +107,8 @@ the option to view the underlying dataset based on the applied filters.</small>
 ---
 [Data Best Practices Presentation](/pdf/Data_Collection_and_Cleaning_Presentation.pdf)
 
+<small>Presentation given to peers in the Applied Health and Performance Science internship program on the topic of data collection and data cleaning relating to Sports Science data sources specifically.</small>
+
 ---
 
 
