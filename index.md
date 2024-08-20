@@ -105,7 +105,7 @@ the option to view the underlying dataset based on the applied filters.</small>
 [Machine Learning Project placeholder](http://example.com/)
 
 ---
-[Data Best Practices Presentation](http://example.com/)
+[Data Best Practices Presentation](/pdf/NBA_ML_Analysis.pdf)
 
 ---
 
