@@ -76,6 +76,9 @@ the option to view the underlying dataset based on the applied filters.</small>
 <small>Script that pulls individual and team in-game performance metrics and statistics from PDF inputs.</small>
 
 ---
+[Football Project placeholder](https://github.com/jadegosar/Python_Projects)
+
+---
 
 ## Business Analytics and KPI Reporting
 
@@ -99,7 +102,7 @@ the option to view the underlying dataset based on the applied filters.</small>
 <small>Text Analytics project to contextualize important topics and sentiment throughout the Men's World Cup in 2022 by analyzing tweets related to the World Cup.</small>
 
 ---
-[Machine Learning Project](http://example.com/)
+[Machine Learning Project placeholder](http://example.com/)
 
 ---
 
