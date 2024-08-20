@@ -63,9 +63,6 @@ the option to view the underlying dataset based on the applied filters.</small>
 
 ## Projects in Python
 
-[Recipe Manager Program](http://example.com/)
-
----
 [Webpage Scraping](https://github.com/jadegosar/Python_Projects)
 
 <small>Webpage scraping script to gather schedule information for sports teams within a D1 collegiate athletics program.</small>
@@ -77,6 +74,11 @@ the option to view the underlying dataset based on the applied filters.</small>
 
 ---
 [Football Project placeholder](https://github.com/jadegosar/Python_Projects)
+
+---
+[Recipe Manager Program](https://github.com/jadegosar/Recipe_Manager_Interface)
+
+<small>Program that can be used to create, store, organize and manage a recipe book created for a 'Python Programming' course.</small>
 
 ---
 
