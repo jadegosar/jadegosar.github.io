@@ -73,6 +73,8 @@ the option to view the underlying dataset based on the applied filters.</small>
 ---
 [Converting PDFs to Structured Data](https://github.com/jadegosar/Python_Projects)
 
+<small>Script that pulls individual and team in-game performance metrics and statistics from PDF inputs.</small>
+
 ---
 
 ## Business Analytics and KPI Reporting
