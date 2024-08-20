@@ -78,7 +78,7 @@ the option to view the underlying dataset based on the applied filters.</small>
 ---
 [Recipe Manager Program](https://github.com/jadegosar/Recipe_Manager_Interface)
 
-<small>Program that can be used to create, store, organize and manage a recipe book created for a 'Python Programming' course.</small>
+<small>Program that can be used to create, store, organize and manage a recipe book created for a course in 'Python Programming'.</small>
 
 ---
 
