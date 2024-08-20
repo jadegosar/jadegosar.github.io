@@ -83,7 +83,7 @@ the option to view the underlying dataset based on the applied filters.</small>
 <small>The objective of this project was to create a supervised analytical model to help Home Credit predict how capable each applicant is of repaying a possible loan, giving them the ability to intervene before borrowers default and reach an underserved population.</small>
 
 ---
-[Forbes Top 2000 Companies of 2017 Dashboard](http://example.com/)
+[Forbes Top 2000 Companies of 2017 Dashboard](https://github.com/jadegosar/Tableau_Projects)
 
 ---
 [Text Analytics Project](https://github.com/jadegosar/World_Cup_Tweets)
