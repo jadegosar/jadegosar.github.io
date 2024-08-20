@@ -28,7 +28,7 @@ the option to view the underlying dataset based on the applied filters.</small>
 <center><img src="images/cluster_final.png"/></center>
 
 ---
-[Collegiate Women's Soccer Season Analysis](/pdf/sample_presentation.pdf)
+[Collegiate Women's Soccer Season Analysis placeholder](/pdf/sample_presentation.pdf)
 
 <small>Project completed for a Collegiate Women's Soccer Team with the purpose of...</small>
 
