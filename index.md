@@ -63,11 +63,15 @@ the option to view the underlying dataset based on the applied filters.</small>
 
 ## Projects in Python
 
-- [Recipe Manager Program](http://example.com/)
-- [Webpage Scraping](http://example.com/)
-- [Converting PDFs to Structured Data](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Recipe Manager Program](http://example.com/)
+
+---
+[Webpage Scraping](https://github.com/jadegosar/Python_Projects)
+
+<small>Webpage scraping script to gather schedule information for sports teams within a D1 collegiate athletics program.</small>
+
+---
+[Converting PDFs to Structured Data](https://github.com/jadegosar/Python_Projects)
 
 ---
 
