@@ -22,7 +22,7 @@ the option to view the underlying dataset based on the applied filters.</small>
 ---
 [Intersection of Sports Science & Game Performance for Elite Collegiate Women's Basketball Team](/WBB_Performance_Analysis.md)
 
-<small>This project explored how and what Sports Science metrics have a significant relationship with in-game performance in order to benchmark a Women's Basketball Team's performance across a season.</small>
+<small>This project explored how and what Sports Science metrics have a significant relationship with in-game performance in order to benchmark a Womens Basketball Team's performance across a season.</small>
 
 <center><img src="images/cluster_final.png"/></center>
 
