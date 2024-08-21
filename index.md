@@ -103,6 +103,9 @@ the option to view the underlying dataset based on the applied filters.</small>
 
 <small>Text Analytics project to contextualize important topics and sentiment throughout the Men's World Cup in 2022 by analyzing tweets related to the World Cup.</small>
 
+<center><img src="images/TA_Pic_Portfolio.png"/></center>
+<center><img src="images/TA_Pic_Portfolio2.png"/></center>
+
 ---
 [Machine Learning Project placeholder](http://example.com/)
 
