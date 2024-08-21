@@ -15,7 +15,7 @@ the option to view the underlying dataset based on the applied filters.</small>
 ---
 [Collegiate Men's Basketball Team KPI Reporting](/mens_bball_project.md)
 
-<small>Project completed for a DI Collegiate Mens Basketball Team with the purpose of identifying and flagging players who may be physically unprepared for the game and therefore at an increased risk of injury due to fatigue.</small>
+<small>Project completed for a DI collegiate Mens Basketball Team with the purpose of identifying and flagging players who may be physically unprepared for the game and therefore at an increased risk of injury due to fatigue.</small>
 
 <center><img src="images/player_plots.png"/></center>
 
@@ -29,7 +29,7 @@ the option to view the underlying dataset based on the applied filters.</small>
 ---
 [Collegiate Women's Soccer Season Analysis placeholder](/pdf/sample_presentation.pdf)
 
-<small>Project completed for a Collegiate Women's Soccer Team with the purpose of...</small>
+<small>Project completed for a collegiate Women's Soccer Team with the purpose of...</small>
 
 ---
 
@@ -53,7 +53,9 @@ the option to view the underlying dataset based on the applied filters.</small>
 <center><img src="images/Tableau_Dashboard_2.png"/></center>
 
 ---
-[Miles Traveled by Athletes Exploration?](http://example.com/)
+[Miles Traveled by Athletes Exploration](http://example.com/)
+
+<small>Utilized various libraries in R, specifically the geosphere and geodist packages, to create metrics that determined how many meters were traveled per competition for each sports team in a database.</small>
 
 ---
 
@@ -70,6 +72,8 @@ the option to view the underlying dataset based on the applied filters.</small>
 
 ---
 [Football Project placeholder](https://github.com/jadegosar/Python_Projects)
+
+<small>In progress project for collegiate Football Team to determine what metrics differentiate players who went to the NFL from all other players in the program at a positional level.</small>
 
 ---
 [Recipe Manager Program](https://github.com/jadegosar/Recipe_Manager_Interface)
