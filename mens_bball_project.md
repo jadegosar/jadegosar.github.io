@@ -31,9 +31,25 @@ The data sources used for this project were:
 
 ### 3. Analysis in R Studio
 
-*Cleaning and Aggregating Data Sources*
+**Cleaning and Aggregating Data Sources**
 
-### 3. Final Output
+**Exploratory Data Analysis**
+
+**Force Plate Trial Analysis**
+
+**Strive Load Comparison and Analysis**
+
+**Regression Modeling**
+
+**Statistical Significance Testing**
+
+**Determining Key Performance Indicators**
+
+### 4. Final Deliverables
+
+**Creation of PowerBI dashboard**
+
+**Final Conclusions and Presentation**
 
 
 For more details on the code related to this project see my [Men's Basketball GitHub Repository](https://github.com/jadegosar/Collegiate_MBB_KPI_Reporting).
