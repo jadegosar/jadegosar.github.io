@@ -17,13 +17,13 @@ The data sources used for this project were:
 * Research sports performance related to men's basketball at a collegiate and professional level
 * Clean and aggregate Sports Science data sources
 * Exploratory data analysis of various data sources and data manipulation
-* Trial Analysis
-* Load Comparison and Analysis
-* Regression modeling
-* Statistical significance testing
-* Determining Key Performance Indicators
-* Creation of PowerBI dashboard
-* Final conclusions and presentation to Sport Science and Performance Staff
+* Regression Model on Wins and Losses
+* Cluster Analysis of top 25 teams in the country and PAC12 teams
+* Creation of all encompassing Over and Underperformance metric
+* Team Catapult Analysis
+* Significance Testing on difference in means between Team Catapult metrics based on Performance Metric
+* Results and Findings
+* Final Applications and presentation to Sports Science and Performance Staff
 
 ### 3. Analysis in R Studio
 
