@@ -64,4 +64,4 @@ The final tab in the application displays the data based on the filters that the
 ### 3. Application User Interface
 
 
-For more details on the code used to create the application see my [GitHub Repository](https://github.com/jadegosar/Game_Data_App).
+For the code used to create this application and to look at the user interface in greater detail see my [GitHub Repository](https://github.com/jadegosar/Game_Data_App).
