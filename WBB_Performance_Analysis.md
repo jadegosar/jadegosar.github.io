@@ -45,3 +45,5 @@ The data sources used for this project were:
 **Results and Findings**
 
 **Applications and Conclusions**
+
+For more details on the code related to this project see my [Women's Basketball Analysis GitHub Repository](https://github.com/jadegosar/WBB_Analysis).
