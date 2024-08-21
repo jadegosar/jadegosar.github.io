@@ -5,6 +5,7 @@
   * Explore the impact of linking sports science data with game performance
 * What insights can we derive from the relationship between gameday statistics and the training load leading up to a game?
   * Inform decision-making for practices during game-weeks
+
 This analysis was initially completed for the 22-23 Women's Basketball season and then rerun with additional considerations for the 23-24 season to determine what differentiating factors may exist between the two seasons.
 
 ### 1. Data Description
