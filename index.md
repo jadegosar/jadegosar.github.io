@@ -20,7 +20,7 @@ the option to view the underlying dataset based on the applied filters.</small>
 <center><img src="images/player_plots.png"/></center>
 
 ---
-[Collegiate Women's Basketball Team Performance Analysis](https://github.com/jadegosar/WBB_Analysis)
+[Collegiate Women's Basketball Team Performance Analysis](/WBB_Performance_Analysis.md)
 
 <small>Project completed for a DI Collegiate Womens Basketball Team with the purpose of...</small>
 
