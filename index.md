@@ -24,7 +24,7 @@ the option to view the underlying dataset based on the applied filters.</small>
 
 <small>This project explored how and what Sports Science metrics have a significant relationship with in-game performance in order to benchmark a Womens Basketball Team's performance across a season.</small>
 
-<center><img src="images/cluster_final.png"/></center>
+<center><img src="images/cluster_viz_final.png"/></center>
 
 ---
 [Collegiate Women's Soccer Season Analysis placeholder](/pdf/sample_presentation.pdf)
