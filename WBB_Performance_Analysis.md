@@ -26,18 +26,22 @@ The data sources used for this project were:
 
 ### 3. Analysis in R Studio
 
-*Cleaning and Aggregating Data Sources*
+**Cleaning and Aggregating Data Sources**
 
-*Exploratory Data Analysis*
+**Exploratory Data Analysis**
 
-*Regression Model on Wins and Losses*
+**Regression Model on Wins and Losses**
 
-*Cluster Analysis*
+**Cluster Analysis**
 
-*Creation of Over and Underperformance metric*
+**Creation of Over and Underperformance metric**
 
-*Team Catapult Analysis*
+**Team Catapult Analysis**
 
 **Significance Testing**
 
-### 3. Final Output
+### 4. Conclusions
+
+**Results and Findings**
+
+**Applications and Conclusions**
