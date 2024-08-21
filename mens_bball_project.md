@@ -6,15 +6,15 @@
 
 The data sources used for this project were:
 
-*Force Plate Data:*
+*Force Plate Data:* Data was collected from countermovement jumps that were performed on Force Plates twice a week. The initial step in this project was research focused on finding evidence that backed up associations between fatigue and variables we had access to from the countermovement jumps. The intention of this step was to determine the variables of interest in the analysis based on basketball specific research so that we could make a more manageable dataset from the ~200 variables that were available in the initial export. In our Principal Component Analysis of the Force Plate data, we were able to determine that 12 variables covered 92% of the variance in all of the data so we felt confident in our decision to reduce the number of variables to something very close to that number.
 
-*Strive Data:*
+*Strive Data:* Data collected from Strive technology used EMG sensors in the athlete's shorts to provide various metrics of interest, many that are representive of accelerometer or muscle load measures. 
 
-*Schedule Information:*
+*Schedule Information:* Schedule information was used to map which Force Plate sessions and Strive files were collected during game weeks. Due to the fact that we wanted to look at the physical toll that practices leading up to the game had on athletes, we decided to...
 
-*Minutes Played:*
+*Minutes Played:* We used a file provided by the Applied Health and Performance Science department to determine the number of minutes every player was on the court in each game. This enabled us to...
 
-*In-game metrics and player statistics:*
+*In-game metrics and player statistics:* These metrics were provided to us by a statistician that works with the basketball team in PDF format. From these inputs we were able to pull individual player plus/minuses per game as well as the overall team plus/minus. This allowed us to benchmark what games each athlete performed above their average plus/minus across the season along with when the team 
 
 ### 2. Project Process
 
