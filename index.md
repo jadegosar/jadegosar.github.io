@@ -108,7 +108,7 @@ the option to view the underlying dataset based on the applied filters.</small>
 <center><img src="images/TA_Pic_Portfolio2.png"/></center>
 
 ---
-[Machine Learning Project placeholder](http://example.com/)
+[Machine Learning Project placeholder](https://github.com/jadegosar/ML_Class_Project)
 
 ---
 [Data Best Practices Presentation](/pdf/Data_Collection_and_Cleaning_Presentation.pdf)
