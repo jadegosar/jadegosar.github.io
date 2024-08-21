@@ -19,7 +19,7 @@ The data sources used for this project were:
 ### 2. Project Process
 
 * Research sports performance related to men's basketball at a collegiate and professional level
-* Clean and aggregate Sport Science data sources
+* Clean and aggregate Sports Science data sources
 * Exploratory data analysis of various data sources and data manipulation
 * Trial Analysis
 * Load Comparison and Analysis
