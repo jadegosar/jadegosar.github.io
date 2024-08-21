@@ -27,7 +27,7 @@ The data sources used for this project were:
 * Statistical significance testing
 * Determining Key Performance Indicators
 * Creation of PowerBI dashboard
-* Final conclusions and presentation to Sport Science and Performance Staff
+* Final conclusions and presentation to Sports Science and Performance Staff
 
 ### 3. Analysis in R Studio
 
