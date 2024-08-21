@@ -43,7 +43,7 @@ the option to view the underlying dataset based on the applied filters.</small>
 ---
 [Super Team or Super Dream?](/pdf/NBA_ML_Analysis.pdf)
 
-<small>Machine Learning project to predict an NBA's team wins in the upcoming season (at the time of analysis it was about to be the 21-22 season) based on updated rosters from off-season player movement. The GitHub Repo with more detailed project information can be [found here.](https://github.com/jadegosar/Predicting_NBA_Team_Wins)</small>
+<small>Machine Learning project to predict an NBA's team wins in the upcoming season (at the time of analysis it was about to be the 21-22 season) based on updated rosters from off-season player movement. The GitHub Repository with more detailed project information can be [found here.](https://github.com/jadegosar/Predicting_NBA_Team_Wins)</small>
 
 ---
 [NBA Shot Efficiency Dashboard in Tableau](https://github.com/jadegosar/Tableau_Projects)
