@@ -56,9 +56,6 @@ the option to view the underlying dataset based on the applied filters.</small>
 [Miles Traveled by Athletes Exploration?](http://example.com/)
 
 ---
-[Project 5 Title](http://example.com/)
-
----
 
 ## Projects in Python
 
