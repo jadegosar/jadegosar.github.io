@@ -108,7 +108,9 @@ the option to view the underlying dataset based on the applied filters.</small>
 <center><img src="images/TA_Pic_Portfolio2.png"/></center>
 
 ---
-[Machine Learning Project placeholder](https://github.com/jadegosar/ML_Class_Project)
+[Machine Learning Class Project](https://github.com/jadegosar/ML_Class_Project)
+
+<small>Final project completed as a part of the MSBA program at Utah to create a supervised Machine Learning model given a specific business situation.</small>
 
 ---
 [Data Best Practices Presentation](/pdf/Data_Collection_and_Cleaning_Presentation.pdf)
