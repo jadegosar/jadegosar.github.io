@@ -74,7 +74,7 @@ the option to view the underlying dataset based on the applied filters.</small>
 <small>Script that pulls individual and team in-game performance metrics and statistics from PDF inputs.</small>
 
 ---
-[Football Project placeholder](https://github.com/jadegosar/Python_Projects)
+[Football Project placeholder](/pdf/sample_presentation.pdf)
 
 <small>In progress project for collegiate Football Team to determine what metrics differentiate players who went to the NFL from all other players in the program at a positional level.</small>
 
