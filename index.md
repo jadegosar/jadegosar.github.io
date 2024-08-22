@@ -99,6 +99,8 @@ the option to view the underlying dataset based on the applied filters.</small>
 
 <small>Project completed in Tableau to generate insights from the companies represented in the Forbes Global 2000 which ranks the top 2000 public companies in the world.</small>
 
+<center><img src="images/Forbes_Dashboard.png"/></center>
+
 ---
 [Text Analytics Project](https://github.com/jadegosar/World_Cup_Tweets)
 
