@@ -56,7 +56,7 @@ the option to view the underlying dataset based on the applied filters.</small>
 <center><img src="images/Tableau_Dashboard_2.png"/></center>
 
 ---
-[Miles Traveled by Athletes Exploration](http://example.com/)
+[Miles Traveled by Athletes Exploration](https://github.com/jadegosar/Team_Miles_Traveled)
 
 <small>Utilized various libraries in R, specifically the geosphere and geodist packages, to create metrics that determined how many meters were traveled per competition for each sports team in a database.</small>
 
