@@ -40,6 +40,8 @@ the option to view the underlying dataset based on the applied filters.</small>
 
 <small>Machine Learning project to predict the true impact of an NBA player on eventual game outcome using point differential. This was a group project completed as part of the Human Performance Analytics class that I had the opportunity to take in my undergrad education at the University of Notre Dame.</small>
 
+<center><img src="images/HPA_SHAP_Plot.png"/></center>
+
 ---
 [Super Team or Super Dream?](/pdf/NBA_ML_Analysis.pdf)
 
