@@ -35,6 +35,8 @@ The data sources used for this project were:
 
 **Force Plate Trial Analysis**
 
+The purpose of the trial analysis was to establish the best way to represent an athlete's best effort and ability on a given test date. We knew that averaging across a given day or just taking the trial where one metric was at its maximum would not accomplish this so we decided to look at if the variables we were primarily interested in typically fell in the same trial or not.
+
 **Strive Load Comparison and Analysis**
 
 **Regression Modeling**
