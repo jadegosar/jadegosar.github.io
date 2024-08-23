@@ -12,7 +12,7 @@ This analysis was initially completed for the 22-23 Women's Basketball season an
 
 The data sources used for this project were:
 
-*Catapult Data:* Data from player worn catapult units, including accelerations, decelerations, and player workload, were the main source of our performance and training load metrics. In the data aggregation process for the Catapult data, we decided to exclude data from game days because these were...
+*Catapult Data:* Data from player worn catapult units, including accelerations, decelerations, and player workload, were the main source of our performance and training load metrics. In the data aggregation process for the Catapult data, we decided to exclude data from game days because competition is not comparable to practices and could potentially skew the results due to the wide variability in playing minutes throughout the team.
 
 *In-game metrics and player statistics:* To aggregate in-game metrics and important player statistics we used two different data sources. The first data source had box score metrics and advanced statistics generated from a program that the basketball staff utilized to review team and individual performance. The output of this program was PDF files for which I wrote a script that extracted all necessary information and created structured dataframes that held both the individual and team statistics. The second data source used was Sports Reference which is a widely used public game statistics database that we used to supplement the team stats that we already had available to us.
 
@@ -32,8 +32,6 @@ The data sources used for this project were:
 * Applied similar process to analyze multiple seasons of data after conclusion of 23-24 season
 
 ### 3. Analysis in R Studio
-
-**Cleaning and Aggregating Data Sources**
 
 **Exploratory Data Analysis**
 
