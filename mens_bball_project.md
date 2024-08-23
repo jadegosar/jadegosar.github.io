@@ -8,7 +8,7 @@ The data sources used for this project were:
 
 *Force Plate Data:* Data was collected from countermovement jumps that were performed on Vald Forcedecks twice a week. The initial step in this project was research focused on finding evidence that backed up associations between fatigue and variables we had access to from the countermovement jumps. The intention of this step was to determine the variables of interest in the analysis based on basketball specific research so that we could make a more manageable dataset from the ~200 variables that were available in the initial export. In our Principal Component Analysis of the Force Plate data, we were able to determine that 12 variables covered 92% of the variance in all of the data so we felt confident in our decision to reduce the number of variables to something very close to that number.
 
-*Strive Data:* Data collected from Strive technology used EMG sensors in the athlete's shorts to provide various metrics of interest, many that are representive of accelerometer or muscle load measures. 
+*Strive Data:* Data collected from Strive technology used EMG sensors in the athlete's shorts to provide various metrics of interest, many that represent accelerometer or muscle load measures. 
 
 *Schedule Information:* Schedule information was used to map which Force Plate sessions and Strive files were collected during game weeks. Due to the fact that we wanted to look at the physical toll that practices leading up to the game had on athletes, we decided to...
 
