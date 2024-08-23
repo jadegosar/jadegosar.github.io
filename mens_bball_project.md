@@ -31,8 +31,6 @@ The data sources used for this project were:
 
 ### 3. Analysis in R Studio
 
-**Cleaning and Aggregating Data Sources**
-
 **Exploratory Data Analysis**
 
 **Force Plate Trial Analysis**
