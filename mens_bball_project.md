@@ -34,7 +34,7 @@ The data sources used for this project were:
 **Exploratory Data Analysis**
 
 <center><img src="images/MBB_Peak_Power_BP.png"/></center>
-<center><img src="images/MBB_PlusMinus_Score.png" width="800" height="250"/></center>
+<center><img src="images/MBB_PlusMinus_Score.png" width="900" height="350"/></center>
 
 **Force Plate Trial Analysis**
 
