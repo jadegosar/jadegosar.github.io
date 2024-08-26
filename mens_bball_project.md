@@ -52,6 +52,8 @@ The purpose of the trial analysis was to establish the best way to represent an 
 
 **Creation of PowerBI dashboard**
 
+<center><img src="images/MBB_Dashboard.png"/></center>
+
 **Final Conclusions and Presentation**
 
 
