@@ -10,7 +10,7 @@ The data sources used for this project were:
 
 *Strive Data:* Data collected from Strive technology used EMG sensors in the athlete's shorts to provide various metrics of interest, many that represent accelerometer or muscle load measures. Due to the fact that we wanted to look at the physical toll that practices had on the athletes and inform decision-making leading up the game, we did not use data collected from the day of the competition.
 
-*Schedule Information:* Schedule information was used to map which Force Plate sessions and Strive files were collected during game weeks and create a variable that determined how many days before or after a game each session was. This was used to map sessions that fell within 3 days before or after a game to explore relationships in metrics...
+*Schedule Information:* Schedule information was used to map which Force Plate sessions and Strive files were collected during game weeks and create a variable that determined how many days before or after a game each session was. This was used to map sessions that fell within 3 days before or after a game to explore if there was statistically significant differences in metrics between sessions leading up to and following a game.
 
 *Minutes Played:* We used a file provided by the Applied Health and Performance Science department to determine the number of minutes every player was on the court in each game. This enabled us to set a minimum threshold for minutes played in a game...
 
@@ -51,6 +51,8 @@ The purpose of the trial analysis was to establish the best way to represent an 
 ### 4. Final Deliverables
 
 **Creation of PowerBI dashboard**
+
+The below visualization shows the dashboard page that I created in PowerBI as a potential supplement to the dashboard my group created. The main goal I had was to see if there was a way we could effectively integrate our Strive data source to represent both the most important metrics we found from our force plate analysis and accelerometer and load measures collected via Strive.
 
 <center><img src="images/MBB_Dashboard.png"/></center>
 
