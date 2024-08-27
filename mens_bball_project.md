@@ -42,7 +42,7 @@ The purpose of the trial analysis was to establish the best way to represent an 
 
 **Strive Load Comparison and Analysis**
 
-A supplemental analysis to compare Strive metrics, specifically external load, load per minute, and session duration, for the team across multiple seasons. This was accomplished by...
+A supplemental analysis to compare Strive metrics, specifically external load, load per minute, and session duration, for the team across multiple seasons. The intention of this step was to explore how load metrics may have changed from the '22 to '23 when looking at returners versus the entire team in each respective part of the season. The html file with comparisons from each part of season were shared with the Men's Basketball Sports Scientist and was summarized at a high level for the Strength and Conditioning coach who was interested in whether the returners had similar load metrics in sessions across both seasons and to what extent the intensity and density of the sessions varied for the team.
 
 **Regression Modeling**
 
