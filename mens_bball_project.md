@@ -42,7 +42,11 @@ The purpose of the trial analysis was to establish the best way to represent an 
 
 **Strive Load Comparison and Analysis**
 
+A supplemental analysis to compare Strive metrics, specifically external load, load per minute, and session duration, for the team across multiple seasons. This was accomplished by...
+
 **Regression Modeling**
+
+We used linear regression models to determine which metrics from the Force Plate data had the strongest relationship with each position group so that we could...
 
 **Statistical Significance Testing**
 
