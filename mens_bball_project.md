@@ -12,7 +12,7 @@ The data sources used for this project were:
 
 *Schedule Information:* Schedule information was used to map which Force Plate sessions and Strive files were collected during game weeks and create a variable that determined how many days before or after a game each session was. This was used to map sessions that fell within 3 days before or after a game to explore if there was statistically significant differences in metrics between sessions leading up to and following a game.
 
-*Minutes Played:* We used a file provided by the Applied Health and Performance Science department to determine the number of minutes every player was on the court in each game. This enabled us to set a minimum threshold for minutes played in a game...
+*Minutes Played:* We used a file provided by the Applied Health and Performance Science department to determine the number of minutes every player was on the court in each game. This enabled us to set a minimum threshold for minutes played in a game to filter for athletes who played over a certain number of minutes across each game in the season.
 
 *In-game metrics and player statistics:* These metrics were provided to us by a statistician that works with the basketball team in PDF format. From these inputs we were able to pull individual player plus/minuses per game as well as the overall team plus/minus. The plus/minus values we worked with were not the standard calculation for plus/minus as they were created using a formula that weighted certain metrics higher than others to calculate a number of "positive points" added and "negative points" which would be subtracted from the positive points to generate the plus/minus metric. We did not have a lot of visibility into the exact formula that calculated positive and negative points as they were generated using a propietary program created by the team's statistician but recieved feedback that this plus/minus was the preferred advanced statistic that the staff used to evaluate in-game performance. Ultimately, this allowed us to benchmark what games each athlete performed above their average plus/minus across the season along with when the team played particularly well or poorly irregardless of the outcome of the game.
 
@@ -50,9 +50,11 @@ We used linear regression modeling to determine which metrics from the Force Pla
 
 **Statistical Significance Testing**
 
+We performed various t-tests to determine if there was a statistically signficant difference in means for our metrics of interest when comparing force plate testing sessions from before games to the ones that took place after games. The ultimate intention in this was to ascertain which metrics may best represent fatigue from the weekend as these variables would show a decrease when comparing the test before the game to the test after. We also looked into whether there were significant differences for the differing number of days after the game that testing sessions were held (i.e. 1-3 days after each game).
+
 **Determining Key Performance Indicators**
 
-The metrics that had statistically signficant differences between tests before a game and tests after a game were included in the final dashboard that my group member created to share with the Strength and Conditioning coach for the basketball team. Additionally, the metrics that we found had significance in our linear regression modeling were included in the final dashboard...
+The metrics that had statistically signficant differences between tests before a game and tests after a game were included in the final dashboard that my group member created to share with the Strength and Conditioning coach for the basketball team. Additionally, the variables that we found had significance in our linear regression modeling were included in the final dashboard to create a comprehensive application that could provide feedback in real-time on the most important metrics from the countermovement jumps. From our trial analysis findings, we were also able to identify how to select the trial that represented the athlete's best ability on each test date and only show that jump in the dashboard. We were then able to calculate z-scores of each metric to compare over time and flag players whose scores fall outside of a specified number of standard deviations.
 
 ### 4. Final Deliverables
 
