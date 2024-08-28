@@ -46,11 +46,13 @@ A supplemental analysis to compare Strive metrics, specifically external load, l
 
 **Regression Modeling**
 
-We used linear regression modeling to determine which metrics from the Force Plate data had the strongest relationship with each position group (Bigs, Guards, Wings). We wanted to see if we could differentiate what metrics may be the most important indicators of underperformance or fatigue and personalize the results to each position group.
+We used linear regression modeling to determine which metrics from the Force Plate data had the strongest relationship with each position group (Bigs, Guards, Wings). We wanted to see if we could differentiate what metrics may be the most important indicators of underperformance or fatigue and personalize the results to each position group. To get the data ready for modeling, we created dummay variables for the position groups so they could be included in the linear regressions.
 
 **Statistical Significance Testing**
 
 **Determining Key Performance Indicators**
+
+The metrics that had statistically signficant differences between tests before a game and tests after a game were included in the final dashboard that my group member created to share with the Strength and Conditioning coach for the basketball team. Additionally, the metrics that we found had significance in our linear regression modeling were included in the final dashboard...
 
 ### 4. Final Deliverables
 
