@@ -18,6 +18,7 @@ the option to view the underlying dataset based on the applied filters.</small>
 <small>Project completed for a DI collegiate Mens Basketball Team with the purpose of identifying and flagging players who may be physically unprepared for the game and therefore at an increased risk of injury due to fatigue.</small>
 
 <center><img src="images/player_plots.png"/></center>
+<center><img src="images/player_plots.png"/></center>
 
 ---
 [Intersection of Sports Science & Game Performance for Elite Collegiate Women's Basketball Team](/WBB_Performance_Analysis.md)
@@ -25,7 +26,7 @@ the option to view the underlying dataset based on the applied filters.</small>
 <small>This project explored how and what Sports Science metrics have a significant relationship with in-game performance in order to benchmark a Womens Basketball Team's performance across a season.</small>
 
 <center><img src="images/cluster_viz_final.png"/></center>
-<center><img src="images/Initial_Viz_WBB.png"/></center>
+<center><img src="images/MBB_Strive_EDA.png"/></center>
 
 ---
 [Collegiate Women's Soccer Season Analysis placeholder](/pdf/sample_presentation.pdf)
