@@ -60,7 +60,5 @@ The below visualization shows the dashboard page that I created in PowerBI as a 
 
 <center><img src="images/MBB_Dashboard.png"/></center>
 
-**Final Conclusions and Presentation**
-
 
 For more details on the code related to this project see my [Men's Basketball GitHub Repository](https://github.com/jadegosar/Collegiate_MBB_KPI_Reporting).
