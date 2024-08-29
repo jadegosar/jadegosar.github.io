@@ -39,9 +39,17 @@ The data sources used for this project were:
 
 **Cluster Analysis**
 
+<center><img src="images/Initial_Viz_WBB.png"/></center>
+<center><img src="images/cluster_viz_final.png"/></center>
+
 **Creation of Over and Underperformance metric**
 
+<center><img src="images/EFGperc_viz.png"/></center>
+<center><img src="images/Performance_metric_viz.png"/></center>
+
 **Team Catapult Analysis**
+
+<center><img src="images/Catapult_viz.png"/></center>
 
 **Significance Testing**
 
