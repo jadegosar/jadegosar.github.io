@@ -29,11 +29,6 @@ the option to view the underlying dataset based on the applied filters.</small>
 <center><img src="images/Initial_Viz_WBB.png"/></center>
 
 ---
-[Collegiate Women's Soccer Season Analysis placeholder](/pdf/sample_presentation.pdf)
-
-<small>Project completed for a collegiate Women's Soccer Team with the purpose of...</small>
-
----
 
 ## Sports Analytics Projects
 
