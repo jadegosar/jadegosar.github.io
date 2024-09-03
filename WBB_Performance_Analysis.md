@@ -35,14 +35,21 @@ The data sources used for this project were:
 
 **Exploratory Data Analysis**
 
+<center><img src="images/Initial_Viz_WBB.png"/></center>
+
 **Regression Model on Wins and Losses**
+
+We used Sports Reference stats from the AP Top 25 Women's Basketball programs and PAC12 teams by game containing the following in-game statistics; Pace, 3 Point Attempt rate (3PAr) , Assist %, Both team’s Effective Field Goal % (EFG%), Offensive Rebounding % (ORB%) and Defensive Rebounding % (DRB%) among others. We also added the NCAA's NET Rank for each team to the dataset to account for differences in strength of schedule among the teams. Our initial regression used these metrics to predict wins and losses for all of the top teams and those in the PAC12 to determine which metrics had a significant relationship with game outcome. This model did very well at predicting wins and losses for these teams so we used this as a benchmark for our next regression model which was only created and tested on teams that were found to be similar to the team we were analyzing through the cluster analysis below.
 
 **Cluster Analysis**
 
-<center><img src="images/Initial_Viz_WBB.png"/></center>
+The main purpose behind creating a cluster model was to determine if significant metrics that influenced wins and losses changed if only teams that played similar styles to the team of interest were considered. We believed that if teams were split into groups according to their style of play than different statistics would become more important as determinants of success, which turned out to be true. 
+
 <center><img src="images/cluster_viz_final.png"/></center>
 
 **Creation of Over and Underperformance metric**
+
+After creating regression models to predict game outcome in terms of wins and losses, we decided that only looking at performance through the lens of wins and losses may be limited as it does not account for the variation in wins, such as when the team plays very well compared to games where they get the result but there is still room for improvement. We wanted to address the variation of performance in wins for this team specifically because they were a very high performing team with very few losses across the season. For this reason, we created our own under/overperformance metric that allowed for wins to still be classified as 'underperformances' if the team did not exceed their season average of specific stats.
 
 <center><img src="images/EFGperc_viz.png"/></center>
 <center><img src="images/Performance_metric_viz.png"/></center>
