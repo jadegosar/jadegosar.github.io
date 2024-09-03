@@ -43,7 +43,7 @@ We used Sports Reference stats from the AP Top 25 Women's Basketball programs an
 
 **Cluster Analysis**
 
-The main purpose behind creating a cluster model was to determine if significant metrics that influenced wins and losses changed if only teams that played similar styles to the team of interest were considered. We believed that if teams were split into groups according to their style of play than different statistics would become more important as determinants of success, which turned out to be true. 
+The main purpose behind creating a cluster model was to determine if significant metrics that influenced wins and losses changed if only teams that played similar styles to the team of interest were considered. We believed that if teams were split into groups according to their style of play than different statistics would become more important as determinants of success, which turned out to be true. Each of the three clusters had differentiating qualities, such as one cluster with a lot of success on the offensive side compared to another that relied on their defense to get results. 
 
 <center><img src="images/cluster_viz_final.png"/></center>
 
