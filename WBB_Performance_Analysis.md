@@ -43,9 +43,12 @@ We used Sports Reference stats from the AP Top 25 Women's Basketball programs an
 
 **Cluster Analysis**
 
-The main purpose behind creating a cluster model was to determine if significant metrics that influenced wins and losses changed if only teams that played similar styles to the team of interest were considered. We believed that if teams were split into groups according to their style of play than different statistics would become more important as determinants of success, which turned out to be true. Each of the three clusters had differentiating qualities, such as one cluster with a lot of success on the offensive side compared to another that relied on their defense to get results. By creating clusters of teams in the dataset, we were able to identify ones with similar playstyles to the team of interest and determine the in-game measures that were most important to team success. We extracted the similar teams and created another logistic regression model to predict wins and losses for only these teams to see if metrics had different relationships with game outcome. We compared the two models on how accurate they were at determining the team of interest's success and used the one created for similar teams, as it was more accurate, to decide what metrics to include when calculating our performance metric.
+The main purpose behind creating a cluster model was to determine if significant metrics that influenced wins and losses changed if only teams that played similar styles to the team of interest were considered. We believed that if teams were split into groups according to their style of play than different statistics would become more important as determinants of success, which turned out to be true. Each of the three clusters had differentiating qualities, such as one cluster with a lot of success on the offensive side compared to another that relied on their defense to get results. 
 
 <center><img src="images/cluster_viz_final.png"/></center>
+
+By creating clusters of teams in the dataset, we were able to identify ones with similar playstyles to the team of interest and determine the in-game measures that were most important to team success. We extracted the similar teams and created another logistic regression model to predict wins and losses for only these teams to see if metrics had different relationships with game outcome. We compared the two models on how accurate they were at determining the team of interest's success and used the one created for similar teams, as it was more accurate, to decide what metrics to include when calculating our performance metric.
+
 <center><img src="images/WBB_Cluster_Heatmap.png"/></center>
 
 **Creation of Over and Underperformance metric**
