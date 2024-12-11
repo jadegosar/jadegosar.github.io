@@ -55,9 +55,12 @@ By creating clusters of teams in the dataset, we were able to identify ones with
 
 **Creation of Over and Underperformance metric**
 
-After creating regression models to predict game outcome in terms of wins and losses, we decided that only looking at performance through the lens of wins and losses may be limited as it does not account for the variation in wins, such as when the team plays very well compared to games where they get the result but there is still room for improvement. We wanted to address the variation of performance in wins for this team specifically because they were a very high performing team with very few losses across the season. For this reason, we created our own under/overperformance metric that allowed for wins to still be classified as 'underperformances' if the team did not exceed their season average of specific stats.
+After creating regression models to predict game outcome in terms of wins and losses, we decided that only looking at performance through the lens of wins and losses may be limited as it does not account for the variation in wins, such as when the team plays very well compared to games where they get the result but there is still room for improvement. We wanted to address the variation of performance in wins for this team specifically because they were a high performing team with very few losses across the season. For this reason, we created our own under/overperformance metric that allowed for wins to still be classified as 'underperformances' if the team did not exceed their season average of specific stats. The visualization below illustrates how this would look for only one metric, in this case Effective Field Goal %, but ultimately we looked into every game for each statistic and compared the individual game values to the season average. 
 
 <center><img src="images/EFGperc_viz.png"/></center>
+
+We used the in-game metrics that we found to be statistically significant when predicting game outcome for similar teams and set a threshold of 40%, meaning that if over 40% of these metrics surpassed their respective season average then game was labeled an "overperformance". On the other hand, if under 40% of the important metrics exceeded the season average than the game was labeled an "underperformance".
+ 
 <center><img src="images/Performance_metric_viz.png"/></center>
 
 **Team Catapult Analysis**
