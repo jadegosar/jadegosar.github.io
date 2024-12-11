@@ -35,6 +35,8 @@ The data sources used for this project were:
 
 **Exploratory Data Analysis**
 
+The first step in the project was to identify publicly available data sources that could be used to supplement the data that was already collected for the team. Ultimately we determined that Sports Reference game statistics could be used to meaningfully expand our analysis beyond the team of interest and allow us to create an all encompassing model that could predict wins and losses among elite collegiate teams. Through the EDA process, we explored both the sports science data sources and the in-game metrics to identify initial trends as well as decide how we could meaningfully combine across data sources to look at performance in differing time frames leading up to competitions.
+
 <center><img src="images/Initial_Viz_WBB.png"/></center>
 
 **Regression Model on Wins and Losses**
