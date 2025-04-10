@@ -83,10 +83,9 @@ the option to view the underlying dataset based on the applied filters.</small>
 
 ## Business Analytics and KPI Reporting
 
-[Maverik Case Competition](https://github.com/jadegosar/Maverik-Case-Competition)
-[Super Team or Super Dream?](/pdf/NBA_ML_Analysis.pdf)
+[Maverik Case Competition](/pdf/Maverik_Project_Presentation.pdf)
 
-<small>This case competition was completed as a part of the Masters of Science in Business Analytics program at the University of Utah in the final Capstone course. Maverik was the sponsor of the case competition in which we were tasked with providing accurate forecasts for a new store's first year of sales in four major product categories. The GitHub Repository with more detailed project information can be [found here.](https://github.com/jadegosar/Maverik-Case-Competition)</small>
+<small>As part of the final Capstone course in the University of Utah’s MS in Business Analytics program, my team competed in a Maverik-sponsored case competition focused on forecasting first-year sales for new stores across four major product categories. We developed and tuned a Random Forest model that outperformed the majority classifier, yielding an estimated $505M increase in ROI. Our team ultimately placed second among all MSBA program teams and the GitHub Repository with more detailed project information can be [found here.](https://github.com/jadegosar/Maverik-Case-Competition)</small>
 
 ---
 [Determining Default Risk for Loan Company](https://github.com/jadegosar/Home_Credit_Default_Risk)
