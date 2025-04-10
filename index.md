@@ -85,12 +85,12 @@ the option to view the underlying dataset based on the applied filters.</small>
 
 [Maverik Case Competition](/pdf/Maverik_Project_Presentation.pdf)
 
-<small>As part of the final Capstone course in the University of Utah’s MS in Business Analytics program, my team competed in a Maverik-sponsored case competition focused on forecasting first-year sales for new stores across four major product categories. We developed and tuned a Random Forest model that outperformed the majority classifier, yielding an estimated $505M increase in ROI. Our team ultimately placed second among all MSBA program teams and the GitHub Repository with more detailed project information can be [found here.](https://github.com/jadegosar/Maverik-Case-Competition)</small>
+<small>As part of the final Capstone course in the University of Utah’s MS in Business Analytics program, my team competed in a Maverik-sponsored case competition focused on forecasting first-year sales for new stores across four major product categories. Our team ultimately placed second among all MSBA program teams and the GitHub Repository with more detailed project information can be [found here.](https://github.com/jadegosar/Maverik-Case-Competition)</small>
 
 ---
 [Determining Default Risk for Loan Company](https://github.com/jadegosar/Home_Credit_Default_Risk)
 
-<small>The objective of this project was to create a supervised analytical model to help Home Credit predict how capable each applicant is of repaying a possible loan, giving them the ability to intervene before borrowers default and reach an underserved population.</small>
+<small>The objective of this project was to create a supervised analytical model to help Home Credit predict how capable each applicant is of repaying a possible loan, giving them the ability to intervene before borrowers default and reach an underserved population. We developed and tuned a Random Forest model that outperformed the majority classifier, yielding an estimated $505M increase in ROI.</small>
 
 ---
 [Forbes Top 2000 Companies of 2017 Dashboard](https://github.com/jadegosar/Tableau_Projects)
