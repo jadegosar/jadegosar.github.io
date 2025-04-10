@@ -95,7 +95,7 @@ the option to view the underlying dataset based on the applied filters.</small>
 ---
 [Forbes Top 2000 Companies of 2017 Dashboard](https://github.com/jadegosar/Tableau_Projects)
 
-<small>Project completed in Tableau to generate insights from the companies represented in the Forbes Global 2000 which ranks the top 2000 public companies in the world.</small>
+<small>This Tableau dashboard was developed using data from the Forbes Global 2000 list, which ranks the top public companies in the world by sales, profits, assets, and market value. The dashboard enables users to filter by country and sector, sort visual outputs based on selected financial metrics, and explore trends across global industries. I created custom calculated fields to determine company profitability, estimate total expenses, and build dynamic sorting logic for user-driven insights. Visualizations included a bullet graph to track sales performance against targets, a treemap to show sales distribution across countries within sectors, and a ranked bar chart comparing market value and profit across companies. This tool was designed to support strategic exploration of financial performance, distilling complex metrics into actionable visuals for stakeholder use-based entirely on publicly available data.</small>
 
 <center><img src="images/Forbes_Dashboard.png"/></center>
 
