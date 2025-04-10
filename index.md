@@ -90,7 +90,7 @@ the option to view the underlying dataset based on the applied filters.</small>
 ---
 [Determining Default Risk for Loan Company](/pdf/Home_Credit_Presentation.pdf)
 
-<small>The objective of this project was to create a supervised analytical model to help Home Credit predict how capable each applicant is of repaying a possible loan, giving them the ability to intervene before borrowers default and reach an underserved population. We developed and tuned a Random Forest model that outperformed the majority classifier, yielding an estimated $505M increase in ROI. The GitHub Repository with more detailed project information can be [found here.](https://github.com/jadegosar/Home_Credit_Default_Risk)</small>
+<small>The objective of this project was to create a supervised analytical model to help Home Credit predict how capable each applicant is of repaying a possible loan, giving them the ability to intervene before borrowers default and reach an underserved population. We developed and tuned a Random Forest model that outperformed the majority classifier, yielding an estimated $505M increase in ROI. The Repository with the code I wrote to create and tune the model as well as additional personal contributions to the project can be [found here.](https://github.com/jadegosar/Home_Credit_Default_Risk)</small>
 
 ---
 [Forbes Top 2000 Companies of 2017 Dashboard](https://github.com/jadegosar/Tableau_Projects)
